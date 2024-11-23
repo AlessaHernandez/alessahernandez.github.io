@@ -10,7 +10,7 @@ Visit [my online CV](https://link).
 
 
 
-🔭 I’m currently studying two BS: Computer Science, Data Science <br/>
+🔭 I’m currently studying Architecture <br/>
 📫 How to reach me: You can reach me on [linkdIn](), or email at 314266985@fa.unam.mx
 
 
