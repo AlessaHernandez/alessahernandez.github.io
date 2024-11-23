@@ -11,7 +11,7 @@ Visit [my online CV](https://link).
 
 
 🔭 I’m currently studying two BS: Computer Science, Data Science <br/>
-📫 How to reach me: You can reach me on [linkdIn](https://www.linkedin.com/in/ulmo-macias/), or email at jorgemacias(at)ciencias.unam.mx
+📫 How to reach me: You can reach me on [linkdIn](https://www.linkedin.com/in/ulmo-macias/), or email at 314266985@fa.unam.mx
 
 
 
